@@ -1,0 +1,5 @@
+doesnt-matter,doesnt-matter,Doesn't Matter,Doesn't Matter,,,
+doesnt-matter,doesnt-matter,Doesn't Matter,Doesn't Matter,,,
+doesnt-matter,doesnt-matter,Doesn't Matter,Doesn't Matter,,,
+doesnt-matter,doesnt-matter,Doesn't Matter,Doesn't Matter,,,
+dog,purebred,0-12 months,Male,compatible-dogs,compatible-cats,compatible-children
